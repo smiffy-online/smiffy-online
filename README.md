@@ -29,7 +29,7 @@ Cognitive support system — external memory for humans and AI. Concept document
 
 ### IoT / Remote Sensing
 
-- **[lorawan-payload-encoder](https://github.com/smiffy-online/lorawan-payload-encoder)** — Device payload encoding for LoRaWAN
+- **[UPD - The Universal Payload Decoder](https://github.com/smiffy-online/upd)** — Parametric payload decoding for LoRaWAN IoT sensors
 
 ### MCP Integrations
 
