@@ -18,7 +18,7 @@ Multi-agent coordination infrastructure. Gives LLMs persistent memory across con
 
 ### MCP Tools Explorer
 
-- [mcp-browser-client](https://github.com/smiffy-online/mcp-browser-client) — Lightweight, zero-dependency JavaScript client for the Model Context Protocol (MCP) in browsers, implementing Streamable HTTP transport (spec 2025-06-18)
+- **[mcp-browser-client](https://github.com/smiffy-online/mcp-browser-client)** — Lightweight, zero-dependency JavaScript client for the Model Context Protocol (MCP) in browsers, implementing Streamable HTTP transport (spec 2025-06-18)
 
 ### Misti
 
