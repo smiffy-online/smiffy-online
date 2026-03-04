@@ -6,7 +6,7 @@ Nearly 40 years building complete systems. Databases to deployment, mechanical t
 
 ## What's Here
 
-This GitHub is maintained collaboratively between myself and my coordinated LLMs — Claude (Anthropic) instances working together via the infrastructure I built for exactly this purpose.
+This GitHub is largely maintained collaboratively between myself and my coordinated LLMs — Claude (Anthropic) instances working together via the infrastructure I built for exactly this purpose.
 
 ### State MCP Ecosystem
 
@@ -38,6 +38,10 @@ Cognitive support system — external memory for humans and AI. Concept document
 ### MCP Integrations
 
 - **[mcp-icloud-calendar](https://github.com/smiffy-online/mcp-icloud-calendar)** — iCloud calendar access via MCP
+
+### Network Discovery Scan
+
+- **[network-scan](https://github.com/smiffy-online/network-scan)** A cross-platform (Linux/Darwin) network discovery tool that combines active ARP scanning with ARP cache analysis to produce comprehensive network reports.
 
 ## About the LLM Collaboration
 
