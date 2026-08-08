@@ -2,11 +2,13 @@
 
 **Engineer | Pythonista | LLM Whisperer**
 
-Nearly 40 years building complete systems. Databases to deployment, mechanical to software. Usually solo. Often rescuing projects others abandoned halfway through.
+A lifetime of breaking and building stuff. Databases to deployment, mechanical to software. Usually solo. Often rescuing projects others abandoned halfway through.
 
 ## What's Here
 
-This GitHub is largely maintained collaboratively between myself and my coordinated LLMs — Claude (Anthropic) instances working together via the infrastructure I built for exactly this purpose.
+This GitHub is largely maintained collaboratively between myself and my ~~demon horde~~ coordinated team of LLMs — Claude (Anthropic), and various open-weight models, working together via the infrastructure I built (and am building) to provide cognitive and memory support for neurodivergent users.
+
+Note that both this README, and some of the repositories are a bit out of date, as time doing, doesn't leave a lot of time for talking about it.
 
 ### State MCP Ecosystem
 
