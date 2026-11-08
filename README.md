@@ -17,9 +17,9 @@ unreliable over long-running work; this is what is working for me.
 DEPRECATED, Anthropic finally has this covered, to a degree.
 - **[dasmodel](https://github.com/smiffy-online/dasmodel)** — experimental agent interface for Ollama models, 
 local or cloud, with MCP tool integration, shell access, and a training feedback loop. Now deprecated; 
-it was a useful investigative exercise, now integrating/modifying Hermes Agent.
+it was a useful investigative exercise, now integrating OpenCode, and OpenWebUI.
 - **[filesystem_supertool2](https://github.com/smiffy-online/filesystem_supertool2)** — filesystem and 
-code-navigation tooling over MCP. **Active development**
+code-navigation tooling over MCP. Originally written to address the deficiencies of the Anthropic filesystem MCP tool. **Active development**
 - **[mcp-browser-client](https://github.com/smiffy-online/mcp-browser-client)** — zero-dependency JavaScript
 MCP client for browsers. Streamable HTTP transport. See what your models are talking about, behind your back!
 - **[mcp-icloud-calendar](https://github.com/smiffy-online/mcp-icloud-calendar)** — iCloud calendar access over MCP.
@@ -41,17 +41,15 @@ but I am not currently engaged in that area, so feel free to adopt, adapt, impro
 ## Micropython
 
 - **[micropython-timezone](https://github.com/smiffy-online/micropython-timezone)** — timezone handling for MicroPython, emulating Python's `zoneinfo`.
-- **[micropython-firmware-builder](https://github.com/smiffy-online/micropython-firmware-builder)** — custom firmware builds. WIP, contributions welcome.
-
+- **[micropython-firmware-builder](https://github.com/smiffy-online/micropython-firmware-builder)** — custom firmware builds, **under re-development**
+- 
 ## Network
 
 - **[network-scan](https://github.com/smiffy-online/network-scan)** — cross-platform (Linux/Darwin) network discovery. Active ARP scanning combined with ARP cache analysis.
 
 ## How this was built
 
-The code in these repositories was partly developed through my Claude framework, I thrash out the specs 
-with Opus on desktop, create tasks as State MCP threads, then I manually transfer a handoff note to Claude Code,
-Either Sonnet, or Opus, depending on the task. Where I watch closesly, and with saintly patience.
+Built with LLM assistance. I do specification and design, agent writes the code, I review and test, tweaking the agent tooling and metaprompts, as I go.
 
 ## Contact
 
