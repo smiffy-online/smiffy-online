@@ -7,6 +7,11 @@ Python, "grown up" AI, embedded, IoT.
 Anything you like :-p Ordered by what is likely to be most useful.  These are working bits and bods 
 from systems I have built/run, put here in case they may be useful to someone. Not necessarily active projects.
 
+## Coming soon!
+
+- **DIY synthesiser components!** Digital control, analogue signal paths. Microcontrollers (Micropython, C,) CPLD/FPGA (Verilog).
+- Agent-assisted EDA, CAD/CAM (laser cutting, 3D printing)
+
 ## Agent infrastructure
 
 - **[state-mcp](https://github.com/smiffy-online/state-mcp)** — PostgreSQL-backed state management via MCP.
